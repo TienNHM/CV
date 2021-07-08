@@ -1,4 +1,4 @@
-# [My CV](CV-Nguyen-Huynh-Minh-Tien-0388963345.pdf)
+# [My CV](CV-Nguyen-Huynh-Minh-Tien-SE-Intern.pdf)
 
 ![](cv/1.png)
 
