@@ -1,0 +1,14 @@
+{
+  "name": "cv-markdown-to-pdf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Convert CV markdown template to A4 PDF using md-to-pdf",
+  "scripts": {
+    "cv:pdf": "node scripts/convert-cv-to-pdf.js",
+    "cv:pdf:template": "node scripts/convert-cv-to-pdf.js templates/cv-template.md output/cv-template.pdf",
+    "cv:pdf:detailed": "node scripts/convert-cv-to-pdf.js templates/cv-detailed-template.md output/cv-detailed-template.pdf"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
