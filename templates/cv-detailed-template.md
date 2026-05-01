@@ -82,7 +82,7 @@ Ho Chi Minh City, Vietnam | 12/2021 - 01/2022
 - Improved task tracking and team execution by structuring feature ownership and sprint priorities.
 
 ### CRM for GEIC (GEIC Industrial Equipment JSC) | FPT IS
-06/2025 - Present | Role: Developer
+06/2025 - 09/2025 | Role: Developer
 
 - Implemented and maintained CRM features supporting key business workflows.
 - Delivered enhancements and fixes to improve system usability.
@@ -90,7 +90,7 @@ Ho Chi Minh City, Vietnam | 12/2021 - 01/2022
 - Supported rollout phases by resolving defects and stabilizing newly released features.
 
 ### CRM Next Product (FPT CX Suite) | FPT IS
-03/2025 - Present | Role: Tech Lead
+03/2025 - 09/2025 | Role: Tech Lead
 
 - Led a development team of up to 10 engineers for CRM Next product delivery.
 - Managed tasks, feature planning, and backlog prioritization across sprints.
