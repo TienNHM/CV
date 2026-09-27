@@ -1,4 +1,4 @@
-# Nguyen Huynh Minh Tien - CV
+# Nguyễn Huỳnh Minh Tiến - CV
 
 [![](https://img.shields.io/badge/PDF-Latest%20CV-green.svg)](CV%20-%20Nguyen%20Huynh%20Minh%20Tien%20-%200388963345.pdf)
 [![](https://img.shields.io/badge/PDF-Detailed%20Template-blue.svg)](output/cv-detailed-template.pdf)
