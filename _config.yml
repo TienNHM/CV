@@ -1,4 +1,9 @@
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
-url: ""
+# Jekyll SEO tag dựng canonical bằng site.url + site.baseurl + page.url.
+# Để url rỗng thì canonical ra "/CV/" — đường dẫn tương đối, Google không gộp
+# được tín hiệu về một URL duy nhất. Khai tường minh thay vì trông chờ
+# GitHub Pages tự suy, để khỏi phụ thuộc vào tuỳ chọn Enforce HTTPS của repo.
+url: "https://tiennhm.io.vn"
+baseurl: "/CV"

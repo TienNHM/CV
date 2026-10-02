@@ -2,7 +2,7 @@
 
 Thu Duc City, Ho Chi Minh City, Vietnam  
 Phone: [+84 388 963 345](tel:+84388963345) | Email: [tiennhm.it@gmail.com](mailto:tiennhm.it@gmail.com)  
-[https://github.com/tiennhm](https://github.com/tiennhm) | [https://tiennhm.github.io](https://tiennhm.github.io) | [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09)  
+[https://github.com/tiennhm](https://github.com/tiennhm) | [https://tiennhm.io.vn](https://tiennhm.io.vn) | [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09)  
 Date of Birth: 09/09/2000
 
 ## Objective
@@ -198,4 +198,4 @@ GPA: 8.74/10
 
 - Writing technical blog posts to document solutions, architecture decisions, and practical development experiences.
 - Producing academic and technical learning videos to explain engineering concepts in an easy-to-follow format.
-- Building personal technical branding through [https://tiennhm.github.io](https://tiennhm.github.io) and [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09).
+- Building personal technical branding through [https://tiennhm.io.vn](https://tiennhm.io.vn) and [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09).
