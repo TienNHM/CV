@@ -10,7 +10,7 @@ Full-stack software developer with strong focus on C#/.NET, ABP Framework, Angul
 - Email: [tiennhm.it@gmail.com](mailto:tiennhm.it@gmail.com)
 - Phone: [+84 388 963 345](tel:+84388963345)
 - GitHub: [https://github.com/tiennhm](https://github.com/tiennhm)
-- Blog: [https://tiennhm.github.io](https://tiennhm.github.io)
+- Blog: [https://tiennhm.io.vn](https://tiennhm.io.vn)
 - YouTube: [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09)
 
 ## CV Preview

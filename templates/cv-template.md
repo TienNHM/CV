@@ -1,7 +1,7 @@
 # NGUYEN HUYNH MINH TIEN
 
 Thu Duc City, Ho Chi Minh City, Vietnam | [+84 388 963 345](tel:+84388963345) | [tiennhm.it@gmail.com](mailto:tiennhm.it@gmail.com)  
-[https://github.com/tiennhm](https://github.com/tiennhm) | [https://tiennhm.github.io](https://tiennhm.github.io) | [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09)
+[https://github.com/tiennhm](https://github.com/tiennhm) | [https://tiennhm.io.vn](https://tiennhm.io.vn) | [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09)
 
 ## Professional Summary
 
@@ -107,4 +107,4 @@ Ho Chi Minh City University of Technology and Education (HCMUTE) | 08/2018 - 08/
 
 - Writing technical blog posts and sharing engineering lessons learned in real projects.
 - Creating academic/technical learning videos to share structured knowledge with the community.
-- Personal branding through content on [https://tiennhm.github.io](https://tiennhm.github.io) and [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09).
+- Personal branding through content on [https://tiennhm.io.vn](https://tiennhm.io.vn) and [https://www.youtube.com/@TienNguyen09](https://www.youtube.com/@TienNguyen09).
